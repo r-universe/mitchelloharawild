@@ -1,9 +1,5 @@
 [
   {
-    "package": "distributional",
-    "oncran": true
-  },
-  {
     "package": "fable.prophet",
     "oncran": true
   },

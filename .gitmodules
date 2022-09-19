@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "distributional"]
-	path = distributional
-	url = https://github.com/mitchelloharawild/distributional
-	shallow = true
-	registered = true
 [submodule "fable.prophet"]
 	path = fable.prophet
 	url = https://github.com/mitchelloharawild/fable.prophet

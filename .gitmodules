@@ -8,6 +8,9 @@
 [submodule "fable.prophet"]
 	path = fable.prophet
 	url = https://github.com/mitchelloharawild/fable.prophet
+[submodule "fromhere"]
+	path = fromhere
+	url = https://github.com/mitchelloharawild/fromhere
 [submodule "ggquiver"]
 	path = ggquiver
 	url = https://github.com/mitchelloharawild/ggquiver

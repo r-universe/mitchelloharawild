@@ -14,6 +14,9 @@
 [submodule "ggquiver"]
 	path = ggquiver
 	url = https://github.com/mitchelloharawild/ggquiver
+[submodule "ggtime"]
+	path = ggtime
+	url = https://github.com/mitchelloharawild/ggtime
 [submodule "vitae"]
 	path = vitae
 	url = https://github.com/mitchelloharawild/vitae

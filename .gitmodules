@@ -17,6 +17,9 @@
 [submodule "ggtime"]
 	path = ggtime
 	url = https://github.com/mitchelloharawild/ggtime
+[submodule "vecvec"]
+	path = vecvec
+	url = https://github.com/mitchelloharawild/vecvec
 [submodule "vitae"]
 	path = vitae
 	url = https://github.com/mitchelloharawild/vitae

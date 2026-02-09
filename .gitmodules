@@ -11,20 +11,12 @@
 [submodule "fromhere"]
 	path = fromhere
 	url = https://github.com/mitchelloharawild/fromhere
-[submodule "ggplot2"]
-	path = ggplot2
-	url = https://github.com/tidyverse/ggplot2
-	registered = false
 [submodule "ggquiver"]
 	path = ggquiver
 	url = https://github.com/mitchelloharawild/ggquiver
 [submodule "ggtime"]
 	path = ggtime
 	url = https://github.com/mitchelloharawild/ggtime
-[submodule "mixtime"]
-	path = mixtime
-	url = https://github.com/mitchelloharawild/mixtime
-	registered = false
 [submodule "vecvec"]
 	path = vecvec
 	url = https://github.com/mitchelloharawild/vecvec

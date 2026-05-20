@@ -23,7 +23,6 @@
 [submodule "mixtime"]
 	path = mixtime
 	url = https://github.com/mitchelloharawild/mixtime
-	registered = false
 [submodule "vecvec"]
 	path = vecvec
 	url = https://github.com/mitchelloharawild/vecvec

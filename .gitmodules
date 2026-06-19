@@ -23,6 +23,9 @@
 [submodule "mixtime"]
 	path = mixtime
 	url = https://github.com/mitchelloharawild/mixtime
+[submodule "vecrep"]
+	path = vecrep
+	url = https://github.com/mitchelloharawild/vecrep
 [submodule "vecvec"]
 	path = vecvec
 	url = https://github.com/mitchelloharawild/vecvec

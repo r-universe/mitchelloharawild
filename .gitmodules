@@ -20,6 +20,12 @@
 [submodule "ggtime"]
 	path = ggtime
 	url = https://github.com/mitchelloharawild/ggtime
+[submodule "graphvec"]
+	path = graphvec
+	url = https://github.com/mitchelloharawild/graphvec
+[submodule "icons"]
+	path = icons
+	url = https://github.com/mitchelloharawild/icons
 [submodule "mixtime"]
 	path = mixtime
 	url = https://github.com/mitchelloharawild/mixtime

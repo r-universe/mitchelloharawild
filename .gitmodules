@@ -14,6 +14,9 @@
 [submodule "fromhere"]
 	path = fromhere
 	url = https://github.com/mitchelloharawild/fromhere
+[submodule "ggicons"]
+	path = ggicons
+	url = https://github.com/mitchelloharawild/ggicons
 [submodule "ggquiver"]
 	path = ggquiver
 	url = https://github.com/mitchelloharawild/ggquiver
